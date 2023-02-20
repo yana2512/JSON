@@ -1,1 +1,4 @@
-
+"user_name": "Yana_Dogon",
+"user_age": 25,
+"user_pet": 0,
+"user_salary": 800
